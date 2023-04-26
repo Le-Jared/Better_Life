@@ -73,7 +73,7 @@ A development Trello-styled whiteboard for the planning phase can be found <a hr
 | :--- | :----------- |
 | Planning of Feature between two users (Pharmacist & Consumer) + Database Design | 2 days
 | CRUD Functionalities for Pharmacist & Map Functionalities for Consumer | 2 days
-| Order Cart Feature (Incomplete) | 1 day
+| Order Cart Feature  | 1 day
 | Login Authentication | 1 day
 | Client-side and Server Validation | 1 day
 
